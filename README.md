@@ -2,9 +2,9 @@
 
 ## 1. This project is about my final project. I will show some SupportDocs here.
 
-### code: prototxt files (network structure), scripts when training and testing, scripts when applying in real scenes in life. 
+### Code: prototxt files (network structure), scripts when training and testing, scripts when applying in real scenes in life. 
 
-### result: trained model (caffemodel) with parameters and  saved predicted segmentation (.png). 
+### Result: trained model (caffemodel) with parameters and  saved predicted segmentation (.png). 
 I uploaded the required caffemodel to the Baidu web disk, which can be downloaded from here (Link: https://pan.baidu.com/s/1zsG-Mos7nzcg3kL2dF1sig  password: ajqj).
 
 ### Demo: the original video and segmented demo video. 
